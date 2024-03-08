@@ -7,10 +7,9 @@
 
 body {
 	font-family: "Ojuju", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: 300;
-	font-style: normal;
-  }
+	color: #202030;
+	background-color: #009808;
+}
 
 /* <uniquifier>: Use a unique and descriptive class name*/
 
