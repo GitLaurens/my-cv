@@ -13,7 +13,7 @@ body {
 
 /* <uniquifier>: Use a unique and descriptive class name*/
 
-.ojuju-<uniquifier> {
+.ojuju-uniquifier {
   font-family: "Ojuju", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
