@@ -6,13 +6,19 @@
 /* Styles for the body */
 
 body {
-	font-family: "Ojuju", sans-serif;
-	font-optical-sizing: auto;
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #009808;
 }
 
+/* <uniquifier>: Use a unique and descriptive class name*/
 
+.ojuju-title {
+  font-family: "Ojuju", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
