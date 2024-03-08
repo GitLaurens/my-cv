@@ -11,6 +11,15 @@ body {
 	background-color: #009808;
 }
 
+/* <uniquifier>: Use a unique and descriptive class name*/
+
+.ojuju-<uniquifier> {
+  font-family: "Ojuju", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
