@@ -16,9 +16,38 @@ body {
 .ojuju-title {
   font-family: "Ojuju", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 300;
+  font-weight: 800;
   font-style: normal;
 }
+
+.ojuju-subtitle {
+	font-family: "Ojuju", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 750;
+	font-style: normal;
+  }
+
+.ojuju-header {
+	font-family: "Ojuju", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+  }
+
+
+.ojuju-rightsidetext {
+	font-family: "Ojuju", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 650;
+	font-style: normal;
+  }
+
+  .ojuju-link {
+	font-family: "Ojuju", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+  }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
